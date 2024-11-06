@@ -26,3 +26,7 @@ https://trello.com/b/RriuhK6w/wdd-330-block-sleep-outside-team-06
 ## Team Production URL
 
 https://glittery-marzipan-cbdd5c.netlify.app/
+
+## Team Members
+-Camilo Ferreira
+Lee Williamson
