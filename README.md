@@ -18,3 +18,16 @@ Use this as a starting point to complete the WDD 330 team activity: the SleepOut
 - `npm run build` to build final files when you are ready to turn in.
 - `npm run lint` to run ESLint against your code to find errors.
 - `npm run format` to run Prettier to automatically format your code.
+
+## Team Members
+
+- Camilo Ferreira
+- Lee Williamson
+
+## Trello Board
+
+https://trello.com/b/RriuhK6w/wdd-330-block-sleep-outside-team-06
+
+## Production URL
+
+https://deploy-preview-1--glittery-marzipan-cbdd5c.netlify.app/
