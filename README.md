@@ -30,4 +30,4 @@ https://trello.com/b/RriuhK6w/wdd-330-block-sleep-outside-team-06
 
 ## Production URL
 
-https://deploy-preview-1--glittery-marzipan-cbdd5c.netlify.app/
+[https://deploy-preview-1--glittery-marzipan-cbdd5c.netlify.app/](https://320100-team-06-checksleep.netlify.app/)
